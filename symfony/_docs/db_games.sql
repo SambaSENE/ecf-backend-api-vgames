@@ -5,7 +5,7 @@ INSERT INTO `publisher` (`id`, `name`) VALUES (3, 'Fathammer');
 INSERT INTO `publisher` (`id`, `name`) VALUES (4, 'Gizmondo Eur Ltd');
 
 /* GAMES */
-INSERT INTO `gizmondo` (`id`, `publisher_id`, `game`, `year`, `dev`) VALUES (1, 1, 'Classic Compendium', 2005, 'AI Factory');
+INSERT INTO `gizmondo` (`id`, `publisher_id`, `game`, `year`, `dev`) VALUES (1, 1, 'Classic Compendium', 200interger5, 'AI Factory');
 INSERT INTO `gizmondo` (`id`, `publisher_id`, `game`, `year`, `dev`) VALUES (2, 1, 'Classic Compendium 2', 2005, 'AI Factory');
 INSERT INTO `gizmondo` (`id`, `publisher_id`, `game`, `year`, `dev`) VALUES (3, 2, 'Fathammer Classics Pack', 2005, 'Fathammer/Ninai Games/Vasara Games');
 INSERT INTO `gizmondo` (`id`, `publisher_id`, `game`, `year`, `dev`) VALUES (4, 1, 'FIFA Soccer 2005', 2005, 'Exient Entertainment/Electronic Arts Canada');
